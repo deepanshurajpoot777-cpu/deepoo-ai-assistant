@@ -1,0 +1,16 @@
+# Python environment
+.venv/
+
+# API keys and secrets
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment files
+.env.*
+!.env.example
+
+# IDE settings
+.vscode/
